@@ -1,3 +1,2 @@
 # Edureka
-Just learning GitHub
-Just some stuff
+Still learning damn GitHub
